@@ -26,5 +26,5 @@ This is a simple **AI-powered Image Generator** web application built using **HT
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ai-image-generator.git
+   git clone https://github.com/aryadeeppradhan/AI-Image-generator.git
    cd ai-image-generator
