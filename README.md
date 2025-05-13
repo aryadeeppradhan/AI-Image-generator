@@ -1,4 +1,5 @@
-AI Image Generator 🔮🖼️
+#AI Image Generator 🔮🖼️
+
 This is a simple AI-powered Image Generator web app built using HTML, CSS, and JavaScript. The app takes a user prompt and returns an AI-generated image based on the prompt using an API (e.g., OpenAI DALL·E or any compatible image generation API).
 
 🔧 Features
