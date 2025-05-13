@@ -1,21 +1,30 @@
-#AI Image Generator 🔮🖼️
+# AI Image Generator 🔮🖼️
 
-This is a simple AI-powered Image Generator web app built using HTML, CSS, and JavaScript. The app takes a user prompt and returns an AI-generated image based on the prompt using an API (e.g., OpenAI DALL·E or any compatible image generation API).
+This is a simple **AI-powered Image Generator** web application built using **HTML**, **CSS**, and **JavaScript**. The app takes a text prompt from the user and generates an image using an external AI image generation API (such as OpenAI's DALL·E or similar).
 
-🔧 Features
-Simple and responsive UI
+---
 
-Prompt-based AI image generation
+## 🔧 Features
 
-Display of generated image with loading indicator
+- Clean and responsive user interface  
+- Prompt-based AI image generation  
+- Loading indicator during image generation  
+- Mobile-friendly design layout  
 
-Mobile-friendly design
+---
 
-🧑‍💻 Technologies Used
-HTML5
+## 🧑‍💻 Technologies Used
 
-CSS3 (Flexbox for layout)
+- HTML5  
+- CSS3 (Flexbox layout)  
+- JavaScript (DOM Manipulation, Fetch API)  
+- AI Image Generation API (e.g., OpenAI DALL·E or Replicate API)
 
-JavaScript (DOM manipulation, Fetch API)
+---
 
-AI Image Generation API (e.g., OpenAI DALL·E)
+## 📦 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/ai-image-generator.git
+   cd ai-image-generator
